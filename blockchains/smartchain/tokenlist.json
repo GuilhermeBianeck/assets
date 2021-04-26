@@ -183,6 +183,9 @@
                 },
                 {
                     "base": "c20000714_t0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6"
+                },
+                {
+                    "base": "c20000714_t0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f"
                 }
             ]
         },
@@ -802,7 +805,18 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c20000714_t0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
+            "type": "BEP20",
+            "address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
+            "name": "Exeedme",
+            "symbol": "XED",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f/logo.png",
+            "pairs": []
         }
+        
     ],
     "version": {
         "major": 10,
