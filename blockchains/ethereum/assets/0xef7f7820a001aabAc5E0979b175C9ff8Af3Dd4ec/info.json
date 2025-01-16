@@ -1,0 +1,17 @@
+{
+    "name": "Exeedme",
+    "website": "https://dao.exeedme.com/",
+    "description": "New Revenue Streams for Gamers",
+    "explorer": "https://etherscan.io/token/0xef7f7820a001aabAc5E0979b175C9ff8Af3Dd4ec",
+    "type": "ERC20",
+    "symbol": "XED",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xef7f7820a001aabAc5E0979b175C9ff8Af3Dd4ec",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/exeedme"
+        }
+    ]
+}
